@@ -12,6 +12,8 @@ Mentor: SRAVANI GOUNI
 
 Overview of the project:
 
+PROJECT NAME: Movie Name
+
 Objective:
 The goal of this project is to develop a sentiment analysis model that classifies movie reviews
 as either positive or negative. This involves leveraging natural language processing (NLP) 
