@@ -25,6 +25,9 @@ Tools and Technologies:
         Machine Learning: Scikit-learn
         Deep Learning: TensorFlow, PyTorch, Keras
 
+
+![Uploading Screenshot 2024-12-28 203304.png…]()
+
 Expected Outcome:
 
 A robust model capable of accurately classifying movie reviews as positive or negative.
